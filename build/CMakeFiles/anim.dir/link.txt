@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/anim.dir/main.cpp.o  -o anim -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

@@ -1,0 +1,3 @@
+/home/rafael/Documents/OpenGL/Rebote/build/CMakeFiles/edit_cache.dir
+/home/rafael/Documents/OpenGL/Rebote/build/CMakeFiles/rebuild_cache.dir
+/home/rafael/Documents/OpenGL/Rebote/build/CMakeFiles/anim.dir
